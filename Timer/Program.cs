@@ -20,6 +20,8 @@ namespace TimerSetteSegmenti
             int secondi;
             string stInput;
             bool inputOK;
+            string tuamamma;
+            string tuasorella;
 
             //Controllo input minuti
             do
